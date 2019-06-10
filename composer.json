@@ -1,0 +1,24 @@
+{
+  "name": "geniv/nette-collection",
+  "description": "Collection class for Nette Framework",
+  "keywords": [
+    "nette",
+    "collection",
+    "geniv"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Radek Fryšták",
+      "email": "geniv.radek@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
