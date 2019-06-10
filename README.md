@@ -49,6 +49,8 @@ As mentioned above, the `collect` helper returns a new `Collection\Collection` i
 <a name="available-methods"></a>
 ## Available Methods
 
+    use Collection\Collection;
+
 For the remainder of this documentation, we'll discuss each method available on the `Collection` class. Remember, all of these methods may be chained for fluently manipulating the underlying array. Furthermore, almost every method returns a new `Collection` instance, allowing you to preserve the original copy of the collection when necessary.
 
 You may select any method from this table to see an example of its usage:
