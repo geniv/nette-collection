@@ -79,6 +79,34 @@ You may select any method from this table to see an example of its usage:
 | [implode](#method-implode) | [reverse](#method-reverse) | |
 
 
+mapSpread
+mapToDictionary
+mapToGroups
+mapWithKeys
+
+flatMap
+mapInto
+combine
+union
+nth
+partition
+pipe
+concat
+split
+sortKeys
+sortKeysDesc
+tap
+uniqueStrict
+valueRetriever
+pad
+jsonSerialize
+getIterator
+getCachingIterator
+countBy
+add
+toBase
+
+
 <a name="method-listing"></a>
 ## Method Listing
 
