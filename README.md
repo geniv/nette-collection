@@ -1,0 +1,2 @@
+# nette-collection
+Collection class
