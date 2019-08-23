@@ -109,7 +109,7 @@ The all method returns the underlying array represented by the collection:
 
     // [1, 2, 3]
 
-<a name="method-avg"></a>
+<a name="method-average"></a>
 #### `average()`
 Alias for the [avg](#method-avg) method.
 
